@@ -1,0 +1,20 @@
+.nav_bar{
+    background-color: slategray;
+    height: 30px;
+    width: 100%;
+    text-align: center;
+}
+.alert{
+    color: red;
+    margin-left: 60px;
+}
+.btn-dark{
+    margin-top: 100px;
+    margin-left: 155px;
+}
+.video{
+    margin-left: 10px;
+}
+.main_contant{
+    margin-left: 10px;
+}
